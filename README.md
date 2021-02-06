@@ -17,5 +17,5 @@ Details about the model:
 3. The performance metric utilized to judge performance is classification accuracy.
 4. All layers utilize a sigmoid activation function. 
 
-
+Contact me through my [LinkedIn!](https://www.linkedin.com/in/ayan-nair-31388a1b7/) Thank you so much for checking my project out!
 
